@@ -21,5 +21,3 @@ From India-TamilNadu 🇮🇳</b>
 
 # Stats
 <p align="center"><a href="https://github.com/Awesome-Gtash"><img src="https://github-readme-stats.vercel.app/api?username=Awesome-Gtash&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/Awesome-Gtash"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awesome-Gtash&theme=radical&layout=compact">
-</a></p>
