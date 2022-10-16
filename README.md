@@ -1,6 +1,6 @@
 
 
-![Awesome-Prince] (https://telegra.ph/file/911d9647f4070b601ab31.jpg)
+![Awesome-Gtash](https://telegra.ph/file/911d9647f4070b601ab31.jpg)
 # Hi there 👋, I'm Gtash
 
 <b>Hey Friend, I'm Gtash, a logo maker;
