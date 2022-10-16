@@ -14,10 +14,5 @@ From India-TamilNadu 🇮🇳</b>
 ➛ Contact Me : gtash2427@gmail.com   
 ➛ Age : Just 14 Years Kid
 
-## Awards
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Awesome-Gtash&label=Profile%20views&color=0e75b6&style=flat" alt="Awesome-Gtash" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AwesomeGtash" alt="AwesomeGtash" /></a> </p>
-
-
 # Stats
 <p align="center"><a href="https://github.com/Awesome-Gtash"><img src="https://github-readme-stats.vercel.app/api?username=Awesome-Gtash&show_icons=true&theme=radical"></a></p>
