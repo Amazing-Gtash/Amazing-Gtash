@@ -1,9 +1,9 @@
 
 
 ![Awesome-Gtash](https://te.legra.ph/file/f330d37f9c185a1ca3c4d.jpg)
-# Hi there 👋, I'm Myaav Boi
+# Hey there 👋, I'm Myaav Boi
 
-<b>Hey Friend, I'm Myaav Boi, a Devoloper;
+<b>Hey Friend, I'm Myaav Boi a Devoloper;
 From India-TamilNadu 🇮🇳</b>
 
  About Me:-
