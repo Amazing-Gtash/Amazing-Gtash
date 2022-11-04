@@ -1,6 +1,6 @@
 
 
-![Awesome-Gtash](https://telegra.ph/file/911d9647f4070b601ab31.jpg)
+![Awesome-Gtash](https://te.legra.ph/file/f330d37f9c185a1ca3c4d.jpg)
 # Hi there 👋, I'm Myaav Boi
 
 <b>Hey Friend, I'm Myaav Boi, a Devoloper;
