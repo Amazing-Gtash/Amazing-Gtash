@@ -1,6 +1,6 @@
 
 
-![Awesome-Gtash](https://graph.org/file/4ebbd389dbd3ae7976940.mp4)
+![Awesome-Gtash]([https://graph.org/file/4ebbd389dbd3ae7976940.mp4](https://graph.org/file/93fc5304c3464905d1c35.jpg))
 # Hey 👋, I'm Gtash
 
 <b>Hey, I'm Gtash a Python Programmer;
