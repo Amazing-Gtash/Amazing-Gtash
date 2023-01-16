@@ -15,4 +15,3 @@ From India-TamilNadu 🇮🇳</b>
 ➪ Age : **Just 13 Years**          
 ➪ Language : **Tamil**        
 ➪ You Can Chat with Me On Telegram : **[The Gtash](t.me/awesome_gtashxd)**     
-➪ You Can Also Find My Bot : **[Prince Oreki](t.me/orekiproxbot)**
